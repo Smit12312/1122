@@ -97,13 +97,12 @@ cd ~/storage
 4 - Clone o repositório.
 
 ```sh
-git clone https://github.com/guiireal/takeshi-bot.git
-```
+git clone https://github.com/Smit12312/1122
 
 5 - Entre na pasta que foi clonada.
 
 ```sh
-cd takeshi-bot
+cd 1122
 ```
 
 6 - Habilite permissões de leitura e escrita (faça apenas 1x esse passo).
