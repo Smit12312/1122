@@ -98,7 +98,7 @@ cd ~/storage
 
 ```sh
 git clone https://github.com/Smit12312/1122
-
+```
 5 - Entre na pasta que foi clonada.
 
 ```sh
