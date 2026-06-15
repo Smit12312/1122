@@ -4,7 +4,7 @@ import { InvalidParameterError } from "../../errors/index.js";
 export default {
   name: "delete",
   description: "Excluo mensagens",
-  commands: ["delete", "d"],
+  commands: ["удалить", "d"],
   usage: `${PREFIX}delete (mencione uma mensagem)`,
   /**
    * @param {CommandHandleProps} props

@@ -7,7 +7,7 @@ import { getRandomNumber } from "../../utils/index.js";
 export default {
   name: "gerar-link",
   description: "Faço upload da imagens",
-  commands: ["to-link", "up", "upload", "gera-link", "gerar-link"],
+  commands: ["to-link", "up", "загружать", "gera-link", "gerar-link"],
   usage: `${PREFIX}gerar-link (marque a imagem) ou ${PREFIX}gerar-link (responda a imagem)`,
   /**
    * @param {CommandHandleProps} props

@@ -814,7 +814,7 @@ Todos os arquivos de exemplo são armazenados em `assets/samples/`:
 - 📝 package.json ➔ _arquivo de definição das dependências do bot_
 - 📝 README.md ➔ _esta documentação_
 - 📝 reset-qr-auth.sh ➔ _arquivo para excluir as credenciais do bot_
-- 📝 update.sh ➔ _arquivo de atualização do bot_
+- 📝 update.sh ➔ _файл обновления бота_
 
 ## Atualizar o bot
 
